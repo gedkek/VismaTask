@@ -1,0 +1,16 @@
+C:\Users\gedkek\Desktop\visma\VismaTask\VismaTask\bin\Debug\net5.0\VismaTask.exe
+C:\Users\gedkek\Desktop\visma\VismaTask\VismaTask\bin\Debug\net5.0\VismaTask.deps.json
+C:\Users\gedkek\Desktop\visma\VismaTask\VismaTask\bin\Debug\net5.0\VismaTask.runtimeconfig.json
+C:\Users\gedkek\Desktop\visma\VismaTask\VismaTask\bin\Debug\net5.0\VismaTask.runtimeconfig.dev.json
+C:\Users\gedkek\Desktop\visma\VismaTask\VismaTask\bin\Debug\net5.0\VismaTask.dll
+C:\Users\gedkek\Desktop\visma\VismaTask\VismaTask\bin\Debug\net5.0\ref\VismaTask.dll
+C:\Users\gedkek\Desktop\visma\VismaTask\VismaTask\bin\Debug\net5.0\VismaTask.pdb
+C:\Users\gedkek\Desktop\visma\VismaTask\VismaTask\obj\Debug\net5.0\VismaTask.csproj.AssemblyReference.cache
+C:\Users\gedkek\Desktop\visma\VismaTask\VismaTask\obj\Debug\net5.0\VismaTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gedkek\Desktop\visma\VismaTask\VismaTask\obj\Debug\net5.0\VismaTask.AssemblyInfoInputs.cache
+C:\Users\gedkek\Desktop\visma\VismaTask\VismaTask\obj\Debug\net5.0\VismaTask.AssemblyInfo.cs
+C:\Users\gedkek\Desktop\visma\VismaTask\VismaTask\obj\Debug\net5.0\VismaTask.csproj.CoreCompileInputs.cache
+C:\Users\gedkek\Desktop\visma\VismaTask\VismaTask\obj\Debug\net5.0\VismaTask.dll
+C:\Users\gedkek\Desktop\visma\VismaTask\VismaTask\obj\Debug\net5.0\ref\VismaTask.dll
+C:\Users\gedkek\Desktop\visma\VismaTask\VismaTask\obj\Debug\net5.0\VismaTask.pdb
+C:\Users\gedkek\Desktop\visma\VismaTask\VismaTask\obj\Debug\net5.0\VismaTask.genruntimeconfig.cache
